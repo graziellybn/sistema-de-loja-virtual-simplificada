@@ -20,15 +20,6 @@ Construir um sistema capaz de gerenciar as principais operações de uma loja vi
 
 - Geração de relatórios de vendas
 
-# Tecnologias Utilizadas
-- Python 3.10+
-
-- Persistência: JSON ou SQLite (sem ORM)
-
-- Interface: CLI (Click/Argparse) ou API mínima (Flask/FastAPI)
-
-- Testes: Pytest
-
 # Classes Principais
 - `Produto`
 - `Clientes`
